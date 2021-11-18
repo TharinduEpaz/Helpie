@@ -8,7 +8,7 @@ The application must be set to autostart at the login.
 app must show notifications.
 app must have very user friendly simple interface.
 
-Step 1 
+>>>>>>>Step 1 
 create a ui design using figma or whatever
 
 step 2
